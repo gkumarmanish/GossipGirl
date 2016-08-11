@@ -21,9 +21,11 @@
   
     sudo npm install grunt-cli -g
 
-4. Now simply run npm In netbeans
+4. Now simply run npm script 
   
-  right click on project >  npm Script > start
+   In netbeans
+  
+   right click on project >  npm Script > start
 
 5. Open Brouser type
    
@@ -31,7 +33,7 @@
 
 6. Insert the Username and Comment box then Click on Commit Button.
 
-8. Then changes done in data base Desktop Notification is show whome user sre logged in that server and port.
+8. Then changes done in mysql database and Desktop Notification is show whome user are logged in that server and port.
     
    
    
